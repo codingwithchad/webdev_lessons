@@ -18,7 +18,7 @@
 
 ### Discussion
  -  what is missing> `<style>`
- 
+
 
 Basic CSS [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
     - Cascading Style Sheets (CSS) tell the browser how to display the text and other content that you write in HTML.
@@ -30,13 +30,13 @@ Basic CSS [https://www.freecodecamp.org/learn/responsive-web-design/basic-css/](
     - Style Multiple Elements with a CSS Class
 
 
-### Homework Basic CSS section
+### Homework Basic CSS section lessons
     - Change the Font Size of an Element
     ...
     ...
     - Override All Other Styles by using Important
 
-Stretch goal
+### practical 
 Add style to the web page the web page that was started at the beginning of the lesson.
  - Change the background color
  - Add a border to the image
