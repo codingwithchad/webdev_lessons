@@ -24,5 +24,5 @@
     - Unordered list `<ul> <li>`
 
 ### Homework
-Free Code Camp [https://www.freecodecamp.org/](https://www.freecodecamp.org/) Basic HTML and HTML5, complete the 28 lessons. 
+Free Code Camp [https://www.freecodecamp.org/](https://www.freecodecamp.org/) Basic HTML and HTML5, complete lessons 1 to 14.
     If this is too much or not enough, please let me know on Discord, and we can make adjustments.
